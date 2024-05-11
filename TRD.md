@@ -1,5 +1,5 @@
 
-### Welcome to the Technical Record Document (TRD) for the Atom repository. This document serves as a guide for contributors, outlining the project's structure, design principles, naming conventions, and contribution guidelines.
+### Welcome to   Atom   Technical Record Document (TRD) This document serves as a guide for contributors.
 
 **Table of Contents**
 1. [Introduction](#introduction)
