@@ -1,8 +1,9 @@
 
 **Welcome to**    
 **Atom's Technical Record Document (TRD)** 
-  
-This document serves as a guide for contributors.
+
+The **Objective** of Atom, is to build resuable components.
+Recognizing the need for reusable components arises when you're duplicating code. However, it's important to strike a balance. If components are too **rigid**, they lack adaptability, while overly **flexible** components can result in inconsistencies. Effective reusable components find the middle ground, offering both consistency and adaptability.
 
 **Table of Contents**
 1. [Introduction](#introduction)
