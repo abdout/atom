@@ -5,28 +5,66 @@
 1. [Introduction](#introduction)
 2. [Technology Used](#technology-used)
 3. [Project Structure](#project-structure)
-4. [Design Style](#design-style)
-5. [Naming Convention](#naming-convention)
-6. [Reusability](#reusability)
-7. [Contribution](#contribution)
+4. [Component Structure](#component-structure)
+5. [Design Style](#design-style)
+6. [Naming Convention](#naming-convention)
+7. [Reusability](#reusability)
+8. [Contribution](#contribution)
 
 ### Introduction
-Content goes here
+Welcome to the Technical Record Document (TRD) for the Atom repository. This document serves as a guide for contributors, outlining the project's structure, design principles, naming conventions, and contribution guidelines.
 
 ### Technology Used
-Content goes here
+**HTML:** for providing the structural foundation of components.
+**Tailwind CSS:**  for styling and customizing components.
+**React:** for developing dynamic and interactive UI components.
+**TypeScript:** for strong typing and enhancing code quality.
 
 ### Project Structure
-Content goes here
+src
+├── app
+│   ├── page.tsx
+│   └── global.css
+└── component
+    ├── atom
+    │   ├── button
+    │   ├── input
+    │   ├── icon
+    │   ├── image
+    │   └── radio
+    └── molecule
+        ├── sidebar
+        └── navbar
+
+### Component Structure
 
 ### Design Style
-Content goes here
+**Sharp Corners**
+**No Shadow**
+**No Effects**
+**Hover:** default opacity 80% when hover increasers to 100%
+this is applied to icons, texts, cards, inputs, buttons 
+**Color Scheme:** follow the color scheme in figma.
+**Sharp and Fill Icons**
+**Outlined Icons for bars**
+**Follow Design in [Figma](https://www.figma.com/file/XhL9031u667fhzTDE4Lq0T/Atom?type=design&node-id=1-3&mode=design&t=o4R5Dal6hV5pzlic-0)**
 
 ### Naming Convention
-Content goes here
+**Folders and Files:** Named in lowercase, singular, and using direct words.
+**Components:** Named in PascalCase (first letter of each word capitalized), with the second word also capitalized if applicable.
+Example: Button, Input, Icon, Image, Radio, Sidebar, Navbar.
+
 
 ### Reusability
 Content goes here
 
 ### Contribution
-Content goes here
+1. Fork the repository to your GitHub account.
+2. Clone the forked repository to your local machine.
+3. Create a new branch for your feature or bug fix.
+4. Make changes and ensure adherence to coding standards.
+5. Test changes locally.
+6. Commit changes and push to your fork.
+7. Open a pull request, describing the changes made and why they should be merged.
+
+Consider utilizing Git Flow for a more structured approach to version control.
