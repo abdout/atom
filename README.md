@@ -53,6 +53,10 @@ We welcome contributions from the community! To contribute to Atom UI Components
 4. Commit your changes and push them to your fork.
 5. Open a pull request, describing the changes you've made and why they should be merged.
 
+## Figma 
+
+to review the UI Components Desgin, visit [Figma](https://www.figma.com/file/XhL9031u667fhzTDE4Lq0T/Atom?type=design&node-id=1-3&mode=design&t=o4R5Dal6hV5pzlic-0), there is two pages, atom and molecule.
+
 ## Support
 
 If you have any questions or need assistance, feel free to [open an issue](https://github.com/abdout/atom/issues) in the repository.
