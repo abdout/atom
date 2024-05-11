@@ -1,8 +1,8 @@
 
-## Welcome to  
-### Atom  
-### Technical Record Document (TRD)  
-## This document serves as a guide for contributors.
+**Welcome to**  
+**Atom**   
+**Technical Record Document (TRD)**   
+This document serves as a guide for contributors.
 
 **Table of Contents**
 1. [Introduction](#introduction)
