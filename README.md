@@ -8,7 +8,7 @@ To get started contributing to Atom UI Components, follow these steps:
 
 ### Documentation 
 
-To start with ease, you may browse the [Technical Record Document](https://www.databayt.org/contribute)
+To start with ease, you may browse the [Technical Record Document](https://github.com/abdout/atom/blob/main/TRD.md)
 
 ### Installation
 

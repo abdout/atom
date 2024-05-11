@@ -1,7 +1,7 @@
-# Atom
-## Technical Record Document
+**Atom**  
+**Technical Record Document**
 
-## Table of Contents
+**Table of Contents**
 1. [Introduction](#introduction)
 2. [Technology Used](#technology-used)
 3. [Project Structure](#project-structure)
