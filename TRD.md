@@ -37,6 +37,11 @@ src
         ├── sidebar  
         └── navbar  
 
+page.tsx: Renders reusable components defined in the component directory.
+global.css: Defines global styles, including styles for headings (h1-h6).
+atom: Contains individual UI components that represent basic building blocks.
+molecule: Comprises composite UI components built by combining atoms.
+
 ### Component Structure
 
 Arrow Functional Component: Utilize arrow function syntax for defining components. You can streamline this process by using the "s7+" extension in VS Code, which allows you to quickly generate arrow function components by typing "rafce". Additionally, ensure your code is formatted consistently by using the Prettier extension.
