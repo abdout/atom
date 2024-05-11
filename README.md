@@ -1,10 +1,10 @@
-# Atom UI Components
+# Atom
 
-Welcome to the Atom UI Components repository! This repository houses a collection of reusable UI components designed to streamline the development process and maintain consistency across [Databayt](https://github.com/abdout/databayt).
+Welcome to the Atom repository! This repository houses a collection of reusable UI components designed to streamline the development process and maintain consistency across [Databayt](https://github.com/abdout/databayt).
 
 ## Getting Started
 
-To get started contributing to Atom UI Components, follow these steps:
+To get started contributing to Atom, follow these steps:
 
 ### Documentation 
 
