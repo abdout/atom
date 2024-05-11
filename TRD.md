@@ -14,29 +14,31 @@
 ### Introduction
 Welcome to the Technical Record Document (TRD) for the Atom repository. This document serves as a guide for contributors, outlining the project's structure, design principles, naming conventions, and contribution guidelines.
 
-### Technology Used
-**HTML:** for providing the structural foundation of components.
-**Tailwind CSS:**  for styling and customizing components.
-**React:** for developing dynamic and interactive UI components.
+### Technology Used  
+**HTML:** for providing the structural foundation of components.  
+**Tailwind CSS:**  for styling and customizing components.  
+**React:** for developing dynamic and interactive UI components.  
 **TypeScript:** for strong typing and enhancing code quality.
 
-### Project Structure
-src
-├── app
-│   ├── page.tsx
-│   └── global.css
-└── component
-    ├── atom
-    │   ├── button
-    │   ├── input
-    │   ├── icon
-    │   ├── image
-    │   └── radio
-    └── molecule
-        ├── sidebar
-        └── navbar
+### Project Structure  
+src  
+├── app  
+│   ├── page.tsx  
+│   └── global.css  
+└── component  
+    ├── atom  
+    │   ├── button  
+    │   ├── input  
+    │   ├── icon  
+    │   ├── image  
+    │   └── radio  
+    └── molecule  
+        ├── sidebar  
+        └── navbar  
 
 ### Component Structure
+
+Arrow Functional Component: Utilize arrow function syntax for defining components. You can streamline this process by using the "s7+" extension in VS Code, which allows you to quickly generate arrow function components by typing "rafce". Additionally, ensure your code is formatted consistently by using the Prettier extension.
 
 ### Design Style
 **Sharp Corners**
