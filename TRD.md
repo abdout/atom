@@ -1,5 +1,5 @@
-## Atom
-## Technical Record Document
+### Atom
+### Technical Record Document
 
 **Table of Contents**
 1. [Introduction](#introduction)
