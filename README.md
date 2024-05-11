@@ -6,12 +6,9 @@ Welcome to the Atom UI Components repository! This repository houses a collectio
 
 To get started contributing to Atom UI Components, follow these steps:
 
-### Prerequisites
+### Documentation 
 
-Before you begin, ensure you have the following installed:
-
-- Node.js
-- npm (Node Package Manager)
+To start with ease, you may browse the [Technical Record Document](https://www.databayt.org/contribute)
 
 ### Installation
 
@@ -47,11 +44,13 @@ Before you begin, ensure you have the following installed:
 
 We welcome contributions from the community! To contribute to Atom UI Components, please follow these guidelines:
 
-1. Fork the repository and create a new branch for your feature or bug fix.
-2. Make your changes and ensure that your code adheres to our coding standards.
-3. Test your changes locally.
-4. Commit your changes and push them to your fork.
-5. Open a pull request, describing the changes you've made and why they should be merged.
+1. Fork the repository
+2. create a new branch for your feature or bug fix.
+3. Ensure your code adheres to coding standards in TRD.
+4. Test your changes locally.
+5. Commit your changes and push them to your fork.
+6. Open a pull request, describing the changes you've made and why they should be merged.
+
 
 ## Figma 
 
@@ -59,4 +58,5 @@ to review the UI Components Desgin, visit [Figma](https://www.figma.com/file/XhL
 
 ## Support
 
-If you have any questions or need assistance, feel free to [open an issue](https://github.com/abdout/atom/issues) in the repository.
+If you have any questions or need assistance, feel free to [open an issue](https://github.com/abdout/atom/issues) in the repository, or reach out to us on [Discord].
+
