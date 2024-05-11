@@ -1,5 +1,5 @@
-<h1 classname="font-extrabold border-b-0">Atom</h1>
-<h1 classname="font-extrabold border-b-0">Technical Record Document</h1>
+<h1 style="font-weight: 900;">Atom</h1>
+<h1 style="font-weight: 900;">Technical Record Document</h1>
 
 **Table of Contents**
 1. [Introduction](#introduction)
