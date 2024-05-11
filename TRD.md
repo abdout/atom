@@ -1,5 +1,5 @@
-### Atom
-### Technical Record Document
+
+### Welcome to the Technical Record Document (TRD) for the Atom repository. This document serves as a guide for contributors, outlining the project's structure, design principles, naming conventions, and contribution guidelines.
 
 **Table of Contents**
 1. [Introduction](#introduction)
@@ -10,9 +10,6 @@
 6. [Naming Convention](#naming-convention)
 7. [Reusability](#reusability)
 8. [Contribution](#contribution)
-
-### Introduction
-Welcome to the Technical Record Document (TRD) for the Atom repository. This document serves as a guide for contributors, outlining the project's structure, design principles, naming conventions, and contribution guidelines.
 
 ### Technology Used  
 **HTML:** for providing the structural foundation of components.  
@@ -41,14 +38,14 @@ src
 Arrow Functional Component: Utilize arrow function syntax for defining components. You can streamline this process by using the "s7+" extension in VS Code, which allows you to quickly generate arrow function components by typing "rafce". Additionally, ensure your code is formatted consistently by using the Prettier extension.
 
 ### Design Style
-**Sharp Corners**
-**No Shadow**
-**No Effects**
+**Sharp Corners**  
+**No Shadow**  
+**No Effects**  
 **Hover:** default opacity 80% when hover increasers to 100%
-this is applied to icons, texts, cards, inputs, buttons 
-**Color Scheme:** follow the color scheme in figma.
-**Sharp and Fill Icons**
-**Outlined Icons for bars**
+this is applied to icons, texts, cards, inputs, buttons   
+**Color Scheme:** follow the color scheme in figma.  
+**Sharp and Fill Icons**  
+**Outlined Icons for bars**  
 **Follow Design in [Figma](https://www.figma.com/file/XhL9031u667fhzTDE4Lq0T/Atom?type=design&node-id=1-3&mode=design&t=o4R5Dal6hV5pzlic-0)**
 
 ### Naming Convention
