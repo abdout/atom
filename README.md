@@ -1,7 +1,4 @@
-# Atom
-
-Welcome to the Atom repository! This repository houses a collection of reusable UI components designed to streamline the development process and maintain consistency across [Databayt](https://github.com/abdout/databayt).
-
+<img src="/public/readme/banner.png" alt="Project Banner"> 
 ## Getting Started
 
 To get started contributing to Atom, follow these steps:

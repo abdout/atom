@@ -1,8 +1,8 @@
-import Button from "@/component/atom/button";
-import Icon from "@/component/atom/icon";
-import Image from "@/component/atom/image";
-import Input from "@/component/atom/input";
-import Radio from "@/component/atom/radio";
+import Button from "@/component/nextatom/button";
+import Icon from "@/component/nextatom/icon";
+import Image from "@/component/nextatom/image";
+import Input from "@/component/nextatom/input";
+import Radio from "@/component/nextatom/radio";
 import Progressbar from "@/component/molecule/Progressbar";
 import Accordion from "@/component/molecule/accordion";
 import Breadcrumb from "@/component/molecule/breadcrumb";
@@ -13,7 +13,7 @@ import Sidebar from "@/component/molecule/sidebar";
 export default function Home() {
   return (
     <div className="flex flex-col justify-center items-center space-y-4 pt-7">
-      <Button />
+      <Button label="Join" />
       <Input />
       <Icon />
       <Image />
